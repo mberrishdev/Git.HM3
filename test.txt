@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 Dev2
+=======
+dev1
+>>>>>>> 7bc417e768fa0afbd1bc3889d378b98c0cb04635
